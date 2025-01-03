@@ -20,7 +20,7 @@ print('Tipo da variável x:',type(x))
 print('Tipo da variável y:',type(x))
 print('Tipo da variável z:',type(x))
 
-# str
+# str - string
 x = 'Hello World!'
 y = 'Test'
 z = '123'
@@ -30,7 +30,7 @@ print('Tipo da variável x:',type(x))
 print('Tipo da variável y:',type(x))
 print('Tipo da variável z:',type(x))
 
-# bool
+# bool - boolean
 a = True
 b = False
 
